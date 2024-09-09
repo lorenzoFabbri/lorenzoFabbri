@@ -4,3 +4,5 @@
 - 🌱 My research interests focus on the use of transparent causal inference methods to answer questions in the broad field of environmental epidemiology.
 - @ You can also find me on [Bluesky](https://bsky.app/profile/epilorenzo.com) and [Twitter](https://x.com/epinobody).
 - 😄 Pronouns: he/him.
+
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoFabbri)](https://github.com/lorenzoFabbri/github-readme-stats)
