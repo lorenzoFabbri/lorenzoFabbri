@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a postdoctoral researcher in vulvar cancer at the Barcelona Institute for Global Health (ISGlobal).
+- 🔭 I am a postdoctoral fellow in gynaecological oncology at the Barcelona Institute for Global Health (ISGlobal).
 - 🌱 My research interests are: social and environmental determinants of cancer; causal triangulation.
 - 😄 Pronouns: he/him.
 
