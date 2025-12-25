@@ -4,4 +4,4 @@
 - 🌱 My research interests are: social and environmental determinants of cancer; causal evidence triangulation.
 - 😄 Pronouns: he/him.
 
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoFabbri)](https://github.com/lorenzoFabbri/github-readme-stats)
+![GitHub Card](https://githubcard.com/lorenzoFabbri.svg)
